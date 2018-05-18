@@ -1,0 +1,6 @@
+SITENAME=Welcome Developer!
+BASEURL=http:\/\/\/
+DBHOST=
+DBNAME=project
+DBUSER=DBPASS=
+CAPTCHA=false
